@@ -1,0 +1,3 @@
+/home/khadas/mnt/workspace/fairmot/build/CMakeFiles/rebuild_cache.dir
+/home/khadas/mnt/workspace/fairmot/build/CMakeFiles/edit_cache.dir
+/home/khadas/mnt/workspace/fairmot/build/CMakeFiles/fairmot.dir
